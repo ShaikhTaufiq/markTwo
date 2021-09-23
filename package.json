@@ -1,0 +1,24 @@
+{
+  "name": "markTwo-1",
+  "version": "1.0.0",
+  "description": "NeogCamp markTwo project: CLI app for marvel quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaikhTaufiq/markTwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaikhTaufiq/markTwo/issues"
+  },
+  "homepage": "https://github.com/ShaikhTaufiq/markTwo#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
